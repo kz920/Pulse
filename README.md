@@ -1,8 +1,11 @@
 <div align="center">
 <img width="1200" height="475" alt="Pulse" src="https://imgur.com/a/78N4i2K" />
 </div>
+
+
 C'est une landing page haute performance pour une plateforme de gestion de projets créatifs. Elle est optimisée pour la conversion avec un design moderne en mode sombre, développée avec React et Vite pour un chargement instantané.
 SaaS de "Creative Ops" (Opérations Créatives). Pour être très concret, voici la solution exacte que ce site propose de vendre :
+
 
 🎯 La Solution : Un "All-in-one" pour les Freelances et Agences
 
