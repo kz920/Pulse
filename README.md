@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="Pulse" src="https://imgur.com/a/78N4i2K" />
+<img width="1200" height="475" alt="Pulse" src="https://github.com/kz920/Pulse/blob/main/Capture%20d'%C3%A9cran%202026-02-09%20221056.png?raw=true" />
 </div>
 
 
