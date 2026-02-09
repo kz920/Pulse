@@ -1,20 +1,22 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Pulse" src="[https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed](https://imgur.com/a/78N4i2K)6" />
 </div>
+C'est une landing page haute performance pour une plateforme de gestion de projets créatifs. Elle est optimisée pour la conversion avec un design moderne en mode sombre, développée avec React et Vite pour un chargement instantané.
+SaaS de "Creative Ops" (Opérations Créatives). Pour être très concret, voici la solution exacte que ce site propose de vendre :
 
-# Run and deploy your AI Studio app
+🎯 La Solution : Un "All-in-one" pour les Freelances et Agences
 
-This contains everything you need to run your app locally.
+- C'est un outil de gestion tout-en-un destiné aux métiers créatifs (designers, monteurs vidéo, développeurs, agences de marketing). Il résout le problème du "bordel administratif" en regroupant trois outils en un seul :
+- Gestion de Projet : Suivi de l'avancement des tâches (le dashboard que l'on voit dans le mockup).
+- Facturation Intégrée : Envoi de factures professionnelles et paiement rapide (le côté "Instant Billing").
+- Portail Client : Un espace pro où le client peut valider le travail et voir l'avancée sans envoyer 50 emails.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1F3EiT7BzIKXLQZfaCIXF-1pWyZTryjzM
 
-## Run Locally
 
 **Prerequisites:**  Node.js
 
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. Run the app:
    `npm run dev`
